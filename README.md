@@ -1,4 +1,9 @@
-# html=css
- Curso de HTML e CSS
+### Olá! Eu sou o Vitor Hugo
 
- estou aprendendo a criar sites e gerenciar meus repositorios
+- 🐱‍💻 Hoje estou estudando front-end
+- 🙂 Pronouns: ele/dele
+
+<div> 
+  <a href="https://github.com/VitinBF/github-readme-stats">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinBF&layout=compact"/>
+</div>
